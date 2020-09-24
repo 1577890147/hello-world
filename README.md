@@ -1,4 +1,3 @@
 # hello-world
 new
-
-bababadjaslkdjaslk
+int a=0
